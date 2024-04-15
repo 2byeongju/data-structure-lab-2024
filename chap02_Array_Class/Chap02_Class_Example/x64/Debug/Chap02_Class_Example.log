@@ -1,2 +1,73 @@
 ﻿  main.cpp
-  Chap02_Class_Example.vcxproj -> C:\Users\USER\Documents\data-structure-lab-2024\chap02_Array_Class\x64\Debug\Chap02_Class_Example.exe
+C:\Users\USER\Documents\data-structure-lab-2024\chap02_Array_Class\Chap02_Class_Example\main.cpp(36,32): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\USER\Documents\data-structure-lab-2024\chap02_Array_Class\Chap02_Class_Example\main.cpp(36,23): error C2146: 구문 오류: ';'이(가) 'myService' 식별자 앞에 없습니다.
+C:\Users\USER\Documents\data-structure-lab-2024\chap02_Array_Class\Chap02_Class_Example\main.cpp(37,1): error C3927: '->': 후행 반환 형식은 비함수 선언자 뒤에 올 수 없습니다.
+C:\Users\USER\Documents\data-structure-lab-2024\chap02_Array_Class\Chap02_Class_Example\main.cpp(37,10): error C3484: 구문 오류: 반환 형식 앞에 '->'가 필요합니다.
+C:\Users\USER\Documents\data-structure-lab-2024\chap02_Array_Class\Chap02_Class_Example\main.cpp(37,11): error C3613: '->' 후 반환 형식이 없습니다('int'로 간주됨).
+C:\Users\USER\Documents\data-structure-lab-2024\chap02_Array_Class\Chap02_Class_Example\main.cpp(37,19): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\USER\Documents\data-structure-lab-2024\chap02_Array_Class\Chap02_Class_Example\main.cpp(37,11): error C2146: 구문 오류: ';'이(가) 'addMusic' 식별자 앞에 없습니다.
+C:\Users\USER\Documents\data-structure-lab-2024\chap02_Array_Class\Chap02_Class_Example\main.cpp(38,1): error C3927: '->': 후행 반환 형식은 비함수 선언자 뒤에 올 수 없습니다.
+C:\Users\USER\Documents\data-structure-lab-2024\chap02_Array_Class\Chap02_Class_Example\main.cpp(38,10): error C3484: 구문 오류: 반환 형식 앞에 '->'가 필요합니다.
+C:\Users\USER\Documents\data-structure-lab-2024\chap02_Array_Class\Chap02_Class_Example\main.cpp(38,11): error C3613: '->' 후 반환 형식이 없습니다('int'로 간주됨).
+C:\Users\USER\Documents\data-structure-lab-2024\chap02_Array_Class\Chap02_Class_Example\main.cpp(38,19): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\USER\Documents\data-structure-lab-2024\chap02_Array_Class\Chap02_Class_Example\main.cpp(38,1): error C2086: 'int myService': 재정의
+  C:\Users\USER\Documents\data-structure-lab-2024\chap02_Array_Class\Chap02_Class_Example\main.cpp(37,1):
+  'myService' 선언을 참조하십시오.
+  
+C:\Users\USER\Documents\data-structure-lab-2024\chap02_Array_Class\Chap02_Class_Example\main.cpp(38,11): error C2146: 구문 오류: ';'이(가) 'addMusic' 식별자 앞에 없습니다.
+C:\Users\USER\Documents\data-structure-lab-2024\chap02_Array_Class\Chap02_Class_Example\main.cpp(39,1): error C3927: '->': 후행 반환 형식은 비함수 선언자 뒤에 올 수 없습니다.
+C:\Users\USER\Documents\data-structure-lab-2024\chap02_Array_Class\Chap02_Class_Example\main.cpp(39,10): error C3484: 구문 오류: 반환 형식 앞에 '->'가 필요합니다.
+C:\Users\USER\Documents\data-structure-lab-2024\chap02_Array_Class\Chap02_Class_Example\main.cpp(39,11): error C3613: '->' 후 반환 형식이 없습니다('int'로 간주됨).
+C:\Users\USER\Documents\data-structure-lab-2024\chap02_Array_Class\Chap02_Class_Example\main.cpp(39,19): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\USER\Documents\data-structure-lab-2024\chap02_Array_Class\Chap02_Class_Example\main.cpp(39,1): error C2086: 'int myService': 재정의
+  C:\Users\USER\Documents\data-structure-lab-2024\chap02_Array_Class\Chap02_Class_Example\main.cpp(37,1):
+  'myService' 선언을 참조하십시오.
+  
+C:\Users\USER\Documents\data-structure-lab-2024\chap02_Array_Class\Chap02_Class_Example\main.cpp(39,11): error C2146: 구문 오류: ';'이(가) 'addMusic' 식별자 앞에 없습니다.
+C:\Users\USER\Documents\data-structure-lab-2024\chap02_Array_Class\Chap02_Class_Example\main.cpp(41,19): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\USER\Documents\data-structure-lab-2024\chap02_Array_Class\Chap02_Class_Example\main.cpp(41,8): error C2146: 구문 오류: ';'이(가) 'music_title' 식별자 앞에 없습니다.
+C:\Users\USER\Documents\data-structure-lab-2024\chap02_Array_Class\Chap02_Class_Example\main.cpp(42,6): error C2143: 구문 오류: ';'이(가) '<<' 앞에 없습니다.
+C:\Users\USER\Documents\data-structure-lab-2024\chap02_Array_Class\Chap02_Class_Example\main.cpp(42,6): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\USER\Documents\data-structure-lab-2024\chap02_Array_Class\Chap02_Class_Example\main.cpp(42,6): error C2059: 구문 오류: '<<'
+C:\Users\USER\Documents\data-structure-lab-2024\chap02_Array_Class\Chap02_Class_Example\main.cpp(43,5): error C2143: 구문 오류: ';'이(가) '>>' 앞에 없습니다.
+C:\Users\USER\Documents\data-structure-lab-2024\chap02_Array_Class\Chap02_Class_Example\main.cpp(43,5): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\USER\Documents\data-structure-lab-2024\chap02_Array_Class\Chap02_Class_Example\main.cpp(43,5): error C2059: 구문 오류: '>>'
+C:\Users\USER\Documents\data-structure-lab-2024\chap02_Array_Class\Chap02_Class_Example\main.cpp(45,6): error C2143: 구문 오류: ';'이(가) '*' 앞에 없습니다.
+C:\Users\USER\Documents\data-structure-lab-2024\chap02_Array_Class\Chap02_Class_Example\main.cpp(45,6): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\USER\Documents\data-structure-lab-2024\chap02_Array_Class\Chap02_Class_Example\main.cpp(45,17): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\USER\Documents\data-structure-lab-2024\chap02_Array_Class\Chap02_Class_Example\main.cpp(45,41): error C2065: 'music_title': 선언되지 않은 식별자입니다.
+C:\Users\USER\Documents\data-structure-lab-2024\chap02_Array_Class\Chap02_Class_Example\main.cpp(46,1): error C2059: 구문 오류: 'if'
+C:\Users\USER\Documents\data-structure-lab-2024\chap02_Array_Class\Chap02_Class_Example\main.cpp(46,21): error C2143: 구문 오류: ';'이(가) '{' 앞에 없습니다.
+C:\Users\USER\Documents\data-structure-lab-2024\chap02_Array_Class\Chap02_Class_Example\main.cpp(46,21): error C2447: '{': 함수 헤더가 없습니다. 이전 스타일의 형식 목록입니까?
+C:\Users\USER\Documents\data-structure-lab-2024\chap02_Array_Class\Chap02_Class_Example\main.cpp(50,1): error C2059: 구문 오류: 'else'
+C:\Users\USER\Documents\data-structure-lab-2024\chap02_Array_Class\Chap02_Class_Example\main.cpp(50,6): error C2143: 구문 오류: ';'이(가) '{' 앞에 없습니다.
+C:\Users\USER\Documents\data-structure-lab-2024\chap02_Array_Class\Chap02_Class_Example\main.cpp(50,6): error C2447: '{': 함수 헤더가 없습니다. 이전 스타일의 형식 목록입니까?
+C:\Users\USER\Documents\data-structure-lab-2024\chap02_Array_Class\Chap02_Class_Example\main.cpp(54,19): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\USER\Documents\data-structure-lab-2024\chap02_Array_Class\Chap02_Class_Example\main.cpp(54,1): error C2086: 'int string': 재정의
+  C:\Users\USER\Documents\data-structure-lab-2024\chap02_Array_Class\Chap02_Class_Example\main.cpp(41,1):
+  'string' 선언을 참조하십시오.
+  
+C:\Users\USER\Documents\data-structure-lab-2024\chap02_Array_Class\Chap02_Class_Example\main.cpp(54,8): error C2146: 구문 오류: ';'이(가) 'artist_name' 식별자 앞에 없습니다.
+C:\Users\USER\Documents\data-structure-lab-2024\chap02_Array_Class\Chap02_Class_Example\main.cpp(55,6): error C2143: 구문 오류: ';'이(가) '<<' 앞에 없습니다.
+C:\Users\USER\Documents\data-structure-lab-2024\chap02_Array_Class\Chap02_Class_Example\main.cpp(55,6): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\USER\Documents\data-structure-lab-2024\chap02_Array_Class\Chap02_Class_Example\main.cpp(55,1): error C2086: 'int cout': 재정의
+  C:\Users\USER\Documents\data-structure-lab-2024\chap02_Array_Class\Chap02_Class_Example\main.cpp(42,1):
+  'cout' 선언을 참조하십시오.
+  
+C:\Users\USER\Documents\data-structure-lab-2024\chap02_Array_Class\Chap02_Class_Example\main.cpp(55,6): error C2059: 구문 오류: '<<'
+C:\Users\USER\Documents\data-structure-lab-2024\chap02_Array_Class\Chap02_Class_Example\main.cpp(56,5): error C2143: 구문 오류: ';'이(가) '>>' 앞에 없습니다.
+C:\Users\USER\Documents\data-structure-lab-2024\chap02_Array_Class\Chap02_Class_Example\main.cpp(56,5): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\USER\Documents\data-structure-lab-2024\chap02_Array_Class\Chap02_Class_Example\main.cpp(56,1): error C2086: 'int cin': 재정의
+  C:\Users\USER\Documents\data-structure-lab-2024\chap02_Array_Class\Chap02_Class_Example\main.cpp(43,1):
+  'cin' 선언을 참조하십시오.
+  
+C:\Users\USER\Documents\data-structure-lab-2024\chap02_Array_Class\Chap02_Class_Example\main.cpp(56,5): error C2059: 구문 오류: '>>'
+C:\Users\USER\Documents\data-structure-lab-2024\chap02_Array_Class\Chap02_Class_Example\main.cpp(58,7): error C2143: 구문 오류: ';'이(가) '<' 앞에 없습니다.
+C:\Users\USER\Documents\data-structure-lab-2024\chap02_Array_Class\Chap02_Class_Example\main.cpp(58,7): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\USER\Documents\data-structure-lab-2024\chap02_Array_Class\Chap02_Class_Example\main.cpp(58,7): error C2059: 구문 오류: '<'
+C:\Users\USER\Documents\data-structure-lab-2024\chap02_Array_Class\Chap02_Class_Example\main.cpp(59,1): error C2059: 구문 오류: 'if'
+C:\Users\USER\Documents\data-structure-lab-2024\chap02_Array_Class\Chap02_Class_Example\main.cpp(59,30): error C2143: 구문 오류: ';'이(가) '{' 앞에 없습니다.
+C:\Users\USER\Documents\data-structure-lab-2024\chap02_Array_Class\Chap02_Class_Example\main.cpp(59,30): error C2447: '{': 함수 헤더가 없습니다. 이전 스타일의 형식 목록입니까?
+C:\Users\USER\Documents\data-structure-lab-2024\chap02_Array_Class\Chap02_Class_Example\main.cpp(65,1): error C2059: 구문 오류: 'else'
+C:\Users\USER\Documents\data-structure-lab-2024\chap02_Array_Class\Chap02_Class_Example\main.cpp(65,6): error C2143: 구문 오류: ';'이(가) '{' 앞에 없습니다.
+C:\Users\USER\Documents\data-structure-lab-2024\chap02_Array_Class\Chap02_Class_Example\main.cpp(65,6): error C2447: '{': 함수 헤더가 없습니다. 이전 스타일의 형식 목록입니까?
