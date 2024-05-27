@@ -1,0 +1,4 @@
+﻿  lec14.c
+C:\Users\USER\Documents\data-structure-lab-2024\Project4\lec14.c(83,6): error C2143: 구문 오류: ')'이(가) 'return' 앞에 없습니다.
+C:\Users\USER\Documents\data-structure-lab-2024\Project4\lec14.c(84,5): error C2181: if와 짝을 이루지 않는 잘못된 else문입니다.
+C:\Users\USER\Documents\data-structure-lab-2024\Project4\lec14.c(64,18): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.

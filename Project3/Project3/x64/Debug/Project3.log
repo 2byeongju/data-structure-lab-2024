@@ -1,0 +1,5 @@
+﻿  lec13.cpp
+C:\Users\USER\Documents\data-structure-lab-2024\Project3\Project3\lec13.cpp(19,3): error C2562: 'push': 'void' 함수에서 값을 반환하고 있습니다.
+  C:\Users\USER\Documents\data-structure-lab-2024\Project3\Project3\lec13.cpp(16,6):
+  'push' 선언을 참조하십시오.
+  
